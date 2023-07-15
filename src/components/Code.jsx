@@ -11,6 +11,7 @@ const Container = styled(Box)`
     background-color: #060606;
     height: 50vh;
     display: flex;
+    width: 100%;
 `
 
 const Code = () => {
